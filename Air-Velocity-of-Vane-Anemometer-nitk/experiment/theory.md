@@ -9,7 +9,7 @@
 </p>
 
 <center>
-<img style="width:130px;" src="images/tunnel.png"></img><br>
+<img style="width:50px;" src="images/tunnel.png"></img><br>
 Traverse Path in Tunnel <br>
 <center>Source : (<a href="https://www.google.com/url?sa=t&source=web&rct=j&url=http://journals.pan.pl/Content/93732/PDF/10267-Volume59_Issue4-14_paper.pdf&ved=2ahUKEwjbusfZ5PPoAhXYAnIKHXXlDcIQFjAAegQIARAB&usg=AOvVaw2KE_w1HD1ZzzzeWUm17r8G">https://www.google.com/url?sa=t&source=web&rct=j&url=http://journals.pan.pl/Content/93732/PDF/10267-Volume59_Issue4-14_paper.pdf&ved=2ahUKEwjbusfZ5PPoAhXYAnIKHXXlDcIQFjAAegQIARAB&usg=AOvVaw2KE_w1HD1ZzzzeWUm17r8G</a>)</center>
 </center>
