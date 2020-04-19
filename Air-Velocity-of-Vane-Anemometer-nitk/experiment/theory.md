@@ -1,7 +1,6 @@
 ### INTRODUCTION<br>
 
-<p style="text-indent:50px;text-align:justify;"> Leon Battista Alberti is said to have invented the first mechanical anemometer around 1450.
-The vane anemometer is an instrument which uses this principle to indirectly calculate air velocity by calculating distance rotated by the vanes within a fixed time period. When held in a moving air stream, the air passing through the instrument exerts a force on the angled vanes, causing them to rotate with an angular velocity that is closely proportional to the air speed. A gearing mechanism and clutch arrangement couple the vanes to a pointer which rotates against a circular dial calibrated in meters. The instrument is used in conjunction with a stopwatch and actually indicates the number of "meter of air" that have passed through the anemometer during a given time period. The clutch device is employed to stop and start the pointer while the vanes continue to rotate. A zero reset lever is also incorporated into the instrument.
+<p style="text-indent:50px;text-align:justify;"> Leon Battista Alberti is said to have invented the first mechanical anemometer around 1450. The vane anemometer is an instrument which uses this principle to indirectly calculate air velocity by calculating distance rotated by the vanes within a fixed time period. When held in a moving air stream, the air passing through the instrument exerts a force on the angled vanes, causing them to rotate with an angular velocity that is closely proportional to the air speed. A gearing mechanism and clutch arrangement couple the vanes to a pointer which rotates against a circular dial calibrated in meters. The instrument is used in conjunction with a stopwatch and actually indicates the number of "meter of air" that have passed through the anemometer during a given time period. The clutch device is employed to stop and start the pointer while the vanes continue to rotate. A zero reset lever is also incorporated into the instrument.
 </p>
 
 #### Specifications
@@ -10,8 +9,9 @@ The vane anemometer is an instrument which uses this principle to indirectly cal
 </p>
 
 <center>
-<img src="images/tunnel.png"></img><br>
-Traverse Path in Tunnel
+<img style="width:130px;" src="images/tunnel.png"></img><br>
+Traverse Path in Tunnel <br>
+<center>Source : (<a href="https://www.google.com/url?sa=t&source=web&rct=j&url=http://journals.pan.pl/Content/93732/PDF/10267-Volume59_Issue4-14_paper.pdf&ved=2ahUKEwjbusfZ5PPoAhXYAnIKHXXlDcIQFjAAegQIARAB&usg=AOvVaw2KE_w1HD1ZzzzeWUm17r8G">https://www.google.com/url?sa=t&source=web&rct=j&url=http://journals.pan.pl/Content/93732/PDF/10267-Volume59_Issue4-14_paper.pdf&ved=2ahUKEwjbusfZ5PPoAhXYAnIKHXXlDcIQFjAAegQIARAB&usg=AOvVaw2KE_w1HD1ZzzzeWUm17r8G</a>)</center>
 </center>
 
 ##### Purpose of Vane Anemometer:

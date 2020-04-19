@@ -5,7 +5,7 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b>  Mining Environmental Engineering Lab
-<b> Experiment| <b> 1.Air Velocity of Vane Anemometer
+<b> Experiment| <b> 1.Air Velocity using Vane Anemometer
 
 <h5> About the Experiment : </h5>
 To determine the air velocity and air quantity in a given cross-sectional area using Vane Anemometer. 
