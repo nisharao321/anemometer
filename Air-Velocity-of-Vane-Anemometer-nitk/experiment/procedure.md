@@ -7,7 +7,7 @@
 <img src="images/ar2.png"><br>
 
 3. Then, click to the Zero Setting lever to set it to zero. Then, click the NEXT button.<br>
-<img src="images/ar3.png"><br>
+<img src="images/ar3.jpg"><br>
 
 4. Then, click to the OK button. <br>
 <img src="images/ar4.png"><br>
