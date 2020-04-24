@@ -135,29 +135,29 @@ margin-top: -30px;
 
 @-webkit-keyframes movescale {
   from {top:350px;  }
-  to {top:280px; }
+  to {top:218px; }
 }
 @keyframes movescale {
   from {top:350px;  }
-  to {top:280px; }
+  to {top:218px; }
 } 
 
 @-webkit-keyframes movefan {
   from {left: 400px; top: 285px; }
-  to {left: 400px; top: 55px; }
+  to {left: 400px; top: 95px; }
 }
 @keyframes movefan {
   from {left: 400px; top: 285px; }
-  to {left: 400px; top: 55px; }
+  to {left: 400px; top: 95px; }
 } 
 
 @-webkit-keyframes movevm {
-  from { left: 460px; top: 310px;  }
-  to {left: 460px; top: 85px; }
+  from { left: 435px; top: 300px;  }
+  to {left: 435px; top: 115px; }
 }
 @keyframes movevm {
-  from { left: 460px; top: 310px; }
-  to {left: 460px; top: 85px; }
+  from { left: 435px; top: 300px; }
+  to {left: 435px; top: 115px; }
 } 
 
 @-webkit-keyframes moves {

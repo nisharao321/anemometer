@@ -139,9 +139,12 @@ function magic() {
 
     if (simsubscreennum == 1) {
         document.getElementById('arrow2').style.visibility = "hidden";
-        document.getElementById('a00').style.visibility = "visible";
+        document.getElementById('m9').style.visibility = "visible";
+        document.getElementById('m10').style.visibility = "visible";
+
         setTimeout(function() {
-            document.getElementById('a00').style.visibility = "hidden";
+            document.getElementById('m9').style.visibility = "hidden";
+            document.getElementById('m10').style.visibility = "hidden";
             document.getElementById("a1").style.animation = "movefan 1s forwards";
             document.getElementById("a3").style.animation = "movevm 1s forwards";
             setTimeout(function() {
@@ -592,7 +595,7 @@ function step1() {
     document.getElementById('a2').onclick = "";
     document.getElementById("a2").style.animation = "movescale 1s forwards";
     setTimeout(function() {
-        document.getElementById('arrow2').style = "visibility:visible ;position:absolute; left: 580px; top: 300px; height: 30px; z-index: 5;";
+        document.getElementById('arrow2').style = "visibility:visible ;position:absolute; left: 540px; top: 260px; height: 30px; z-index: 5;";
         document.getElementById("arrow2").style.transform = "rotate(8deg)";
 
         document.getElementById('cann').style.visibility = "visible";
@@ -941,18 +944,18 @@ function moveAF1(){
 	fan.style.marginTop='130px';
 	setTimeout(function(){
 		ElementRevolver.start('a44', {
-          radius: 40,
-          center: { x: 175, y: 268 },
-          interval: 2000,
+          radius: 55,
+          center: { x: 170, y: 243 },
+          interval: 2400,
           direction: -1,
           iterations: 0.5,
           startPositionDeg: 180,
           updateInterval: 10
       });
 		ElementRevolver.start('a41', {
-          radius: 40,
-          center: { x: 150, y: 221 },
-          interval: 2000,
+          radius: 55,
+          center: { x: 138, y: 199 },
+          interval: 2400,
           direction: -1,
           iterations: 0.5,
           startPositionDeg: 180,
@@ -965,7 +968,7 @@ function moveAF1(){
 		setTimeout(function(){
 			ElementRevolver.start('a44', {
              radius: 55,
-             center: { x: 270, y: 268 },
+             center: { x: 280, y: 243 },
              interval: 2400,
              direction: 1,
              iterations: 0.5,
@@ -974,7 +977,7 @@ function moveAF1(){
          });
 			ElementRevolver.start('a41', {
              radius: 55,
-             center: { x: 245, y: 221 },
+             center: { x: 248, y: 199 },
              interval: 2400,
              direction: 1,
              iterations: 0.5,
@@ -982,14 +985,14 @@ function moveAF1(){
              updateInterval: 10
          });
 		},1000)
-	},2000)
+	},2200)
 	setTimeout(function(){
 		amtr.style.marginTop='120px';
 		fan.style.marginTop='120px';
 		setTimeout(function(){
 			ElementRevolver.start('a44', {
-             radius: 50,
-             center: { x: 375, y: 268 },
+             radius: 55,
+             center: { x: 390, y: 243 },
              interval: 2400,
              direction: -1,
              iterations: 0.5,
@@ -997,8 +1000,8 @@ function moveAF1(){
              updateInterval: 10
          });
 			ElementRevolver.start('a41', {
-             radius: 50,
-             center: { x: 350, y: 221 },
+             radius: 55,
+             center: { x: 358, y: 199 },
              interval: 2400,
              direction: -1,
              iterations: 0.5,
@@ -1006,11 +1009,11 @@ function moveAF1(){
              updateInterval: 10
          });
 		},1000)
-	},4200)
+	},4400)
 	setTimeout(function(){
 		amtr.style.marginTop='0px';
 		fan.style.marginTop='0px';
-	},6400)
+	},6600)
 }
 
 function moveAF2(){
@@ -1022,18 +1025,18 @@ function moveAF2(){
 	fan.style.marginTop='130px';
 	setTimeout(function(){
 		ElementRevolver.start('a44-1', {
-          radius: 40,
-          center: { x: 175, y: 268 },
-          interval: 2000,
+          radius: 55,
+          center: { x: 170, y: 243 },
+          interval: 2400,
           direction: -1,
           iterations: 0.5,
           startPositionDeg: 180,
           updateInterval: 10
       });
 		ElementRevolver.start('a41-1', {
-          radius: 40,
-          center: { x: 150, y: 221 },
-          interval: 2000,
+          radius: 55,
+          center: { x: 138, y: 199 },
+          interval: 2400,
           direction: -1,
           iterations: 0.5,
           startPositionDeg: 180,
@@ -1046,7 +1049,7 @@ function moveAF2(){
 		setTimeout(function(){
 			ElementRevolver.start('a44-1', {
              radius: 55,
-             center: { x: 270, y: 268 },
+             center: { x: 280, y: 243 },
              interval: 2400,
              direction: 1,
              iterations: 0.5,
@@ -1055,7 +1058,7 @@ function moveAF2(){
          });
 			ElementRevolver.start('a41-1', {
              radius: 55,
-             center: { x: 245, y: 221 },
+             center: { x: 248, y: 199 },
              interval: 2400,
              direction: 1,
              iterations: 0.5,
@@ -1063,14 +1066,14 @@ function moveAF2(){
              updateInterval: 10
          });
 		},1000)
-	},2000)
+	},2200)
 	setTimeout(function(){
 		amtr.style.marginTop='120px';
 		fan.style.marginTop='120px';
 		setTimeout(function(){
 			ElementRevolver.start('a44-1', {
-             radius: 50,
-             center: { x: 375, y: 268 },
+             radius: 55,
+             center: { x: 390, y: 243 },
              interval: 2400,
              direction: -1,
              iterations: 0.5,
@@ -1078,8 +1081,8 @@ function moveAF2(){
              updateInterval: 10
          });
 			ElementRevolver.start('a41-1', {
-             radius: 50,
-             center: { x: 350, y: 221 },
+             radius: 55,
+             center: { x: 358, y: 199 },
              interval: 2400,
              direction: -1,
              iterations: 0.5,
@@ -1087,18 +1090,18 @@ function moveAF2(){
              updateInterval: 10
          });
 		},1000)
-	},4200)
+	},4400)
 	setTimeout(function(){
 		amtr.style.marginTop='0px';
 		fan.style.marginTop='0px';
-	},6400)
+	},6600)
 	setTimeout(function(){
 		amtr.style.marginTop='120px';
 		fan.style.marginTop='120px';
 		setTimeout(function(){
 			ElementRevolver.start('a44-1', {
-             radius: 50,
-             center: { x: 375, y: 268 },
+             radius: 55,
+             center: { x: 390, y: 243 },
              interval: 2400,
              direction: 1,
              iterations: 0.5,
@@ -1106,8 +1109,8 @@ function moveAF2(){
              updateInterval: 10
          });
 			ElementRevolver.start('a41-1', {
-             radius: 50,
-             center: { x: 350, y: 221 },
+             radius: 55,
+             center: { x: 358, y: 199 },
              interval: 2400,
              direction: 1,
              iterations: 0.5,
@@ -1115,11 +1118,11 @@ function moveAF2(){
              updateInterval: 10
          });
 		},1000)
-	},7400)
+	},7600)
 	setTimeout(function(){
 		amtr.style.marginTop='-10px';
 		fan.style.marginTop='-10px';
-	},9600)
+	},9800)
 }
 
 function moveAF3(){
@@ -1131,18 +1134,18 @@ function moveAF3(){
 	fan.style.marginTop='130px';
 	setTimeout(function(){
 		ElementRevolver.start('a44-2', {
-          radius: 40,
-          center: { x: 175, y: 268 },
-          interval: 2000,
+          radius: 55,
+          center: { x: 170, y: 243 },
+          interval: 2400,
           direction: -1,
           iterations: 0.5,
           startPositionDeg: 180,
           updateInterval: 10
       });
 		ElementRevolver.start('a41-2', {
-          radius: 40,
-          center: { x: 150, y: 221 },
-          interval: 2000,
+          radius: 55,
+          center: { x: 138, y: 199 },
+          interval: 2400,
           direction: -1,
           iterations: 0.5,
           startPositionDeg: 180,
@@ -1155,7 +1158,7 @@ function moveAF3(){
 		setTimeout(function(){
 			ElementRevolver.start('a44-2', {
              radius: 55,
-             center: { x: 270, y: 268 },
+             center: { x: 280, y: 243 },
              interval: 2400,
              direction: 1,
              iterations: 0.5,
@@ -1164,7 +1167,7 @@ function moveAF3(){
          });
 			ElementRevolver.start('a41-2', {
              radius: 55,
-             center: { x: 245, y: 221 },
+             center: { x: 248, y: 199 },
              interval: 2400,
              direction: 1,
              iterations: 0.5,
@@ -1172,9 +1175,9 @@ function moveAF3(){
              updateInterval: 10
          });
 		},1000)
-	},2000)
+	},2200)
 	setTimeout(function(){
 		amtr.style.marginTop='120px';
 		fan.style.marginTop='120px';
-	},4200)
+	},4400)
 }
