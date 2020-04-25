@@ -178,17 +178,13 @@ function magic() {
         document.getElementById('cann').style.visibility = "hidden";
 
         document.getElementById('arrow2').style.visibility = "hidden";
+        document.getElementById('01').style.visibility = "visible";
+        document.getElementById('ok1').onclick = function() {
+            step01();
+        };
+       
+}
 
-        myInt = setInterval(function() {
-            animatearrow();
-        }, 500);
-         animateArrowATPosition(670,330,25,270);
-       document.getElementById('a13-1').onclick = function() {
-            step2();
-    };
-
-
-    }
     else if (simsubscreennum == 3) {
         document.getElementById('trial1').style.visibility = "visible";
 
@@ -419,7 +415,7 @@ function magic() {
         document.getElementById('a13-3').onclick = function() {
 
             step22();
-            
+
           };
     }
     else if (simsubscreennum == 7) {
@@ -619,7 +615,20 @@ function step10() {
     document.getElementById('ok').style.visibility = "hidden";
     document.getElementById('nextButton').style.visibility = "visible";
 }
+function step01() {
 
+    document.getElementById('01').style.visibility = "hidden";
+    document.getElementById('ok1').style.visibility = "hidden";
+    document.getElementById('a44').style.visibility = "visible";
+    document.getElementById('a41').style.visibility = "visible";
+    document.getElementById('a22').style.visibility = "visible";
+    myInt = setInterval(function() {animatearrow();}, 500);
+         animateArrowATPosition(670,330,25,270);
+       document.getElementById('a13-1').onclick = function() {
+
+            step2();
+    }; 
+}
 
 function step2() {
     myStopFunction();
