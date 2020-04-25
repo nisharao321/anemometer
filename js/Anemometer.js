@@ -864,6 +864,8 @@ function start(sn,ln) {
     function draw_4() {
         var sm2=document.getElementById('sc2mask'+sn);
         sm2.style.marginLeft='113px';
+                sm2.style.width='10px';
+
         ln--;
         setTimeout(function(){
             sm2.style.display='none';
