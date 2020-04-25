@@ -163,6 +163,24 @@ margin-top: -30px;
 } 
 
 
+@-webkit-keyframes movv {
+  from {top: 308px;  }
+  to {top:320px; }
+}
+@keyframes movv {
+  from {top: 308px;  }
+  to {top:320px; }
+} 
+
+
+@-webkit-keyframes movw {
+  from {top:320px;  }
+  to {top:308px; }
+}
+@keyframes movw {
+  from {top:320px;  }
+  to {top:308px; }
+} 
 
 
 

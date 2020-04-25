@@ -182,10 +182,11 @@ function magic() {
         myInt = setInterval(function() {
             animatearrow();
         }, 500);
-         animateArrowATPosition(740,120,25,270);
-       
+         animateArrowATPosition(670,330,25,270);
+       document.getElementById('a13-1').onclick = function() {
             step2();
-    
+    };
+
 
     }
     else if (simsubscreennum == 3) {
@@ -295,10 +296,12 @@ function magic() {
             animatearrow();
         }, 500);
 
-        animateArrowATPosition(740,120,25,270);
+         animateArrowATPosition(670,330,25,270);
+        document.getElementById('a13-2').onclick = function() {
 
             step21();
-        
+         };
+
 
     }
 
@@ -412,10 +415,12 @@ function magic() {
             animatearrow();
         }, 500);
 
-        animateArrowATPosition(740,120,25,270);
+         animateArrowATPosition(670,330,25,270);
+        document.getElementById('a13-3').onclick = function() {
 
             step22();
-        
+            
+          };
     }
     else if (simsubscreennum == 7) {
         document.getElementById('trial5').style.visibility = "visible";
@@ -641,6 +646,7 @@ function step2() {
                 document.getElementById('can12').innerHTML = "Reading=" + ar3[r][1]+".";
 
                 setTimeout(function() {
+                    document.getElementById('a13-1').style.visibility = "hidden";
                     document.getElementById('a14-1').style.visibility = "hidden";
                     document.getElementById('a33').style.visibility = "hidden";
                     document.getElementById('a55').style.visibility = "hidden";
@@ -665,8 +671,8 @@ function step2() {
         document.getElementById("a41").onload = setInterval("rott11()", 10);
         document.getElementById('arroww').style.visibility = "visible";
         document.getElementById('cann1').style.visibility = "visible";
-        // document.getElementById("a88").style.animation = "moveclutch 1s forwards";
-        // document.getElementById("a88").style.animation = "moveclut 1s forwards";
+        document.getElementById("a13-1").style.animation = "movv 1s forwards";
+        document.getElementById("a13-1").style.animation = "movw 1s forwards";
     }, 200);
 }
 
@@ -694,7 +700,7 @@ function step21() {
                 document.getElementById('can22-1').innerHTML = "Time=120 s.";
                 document.getElementById('can12-1').innerHTML = "Reading=" + ar2[r][1]+".";
                 setTimeout(function() {
-
+                    document.getElementById('a13-2').style.visibility = "hidden";
                     document.getElementById('a14-2').style.visibility = "hidden";
                     document.getElementById('a33-1').style.visibility = "hidden";
                     document.getElementById('a55-1').style.visibility = "hidden";
@@ -717,8 +723,8 @@ function step21() {
         }, 1200);
         document.getElementById("a41-1").onload = setInterval("rott12()", 10);
         document.getElementById('arroww-1').style.visibility = "visible";
-        // document.getElementById("a88-1").style.animation = "moveclutch 1s forwards";
-        // document.getElementById("a88-1").style.animation = "moveclut 1s forwards";
+        document.getElementById("a13-2").style.animation = "movv 1s forwards";
+        document.getElementById("a13-2").style.animation = "movw 1s forwards";
     }, 800);
 }
 
@@ -729,7 +735,7 @@ function step22() {
         setTimeout(function() {
             document.getElementById("a55-2").style.animation = "rotates 8.2s linear forwards";
             document.getElementById("a77-2").style.animation = "rotat 9s linear forwards";
-            document.getElementById("a99-2").style.animation = "rotate 6s linear forwards";
+            document.getElementById("a99-2").style.animation = "rotate 8s linear forwards";
              setTimeout(function() {
                   myInt = setInterval(function() {
                   animatearrow();
@@ -743,6 +749,7 @@ function step22() {
                 document.getElementById('can22-2').innerHTML = "Time=120 s.";
                 document.getElementById('can12-2').innerHTML = "Reading=" + ar1[r][1]+".";
                 setTimeout(function() {
+                    document.getElementById('a13-3').style.visibility = "hidden";
                     document.getElementById('a14-3').style.visibility = "hidden";
                     document.getElementById('a33-2').style.visibility = "hidden";
                     document.getElementById('a55-2').style.visibility = "hidden";
@@ -766,8 +773,8 @@ function step22() {
         }, 1000);
         document.getElementById("a41-2").onload = setInterval("rott22()", 10);
         document.getElementById('arroww-2').style.visibility = "visible";
-        // document.getElementById("a88-2").style.animation = "moveclutch 1s forwards";
-        // document.getElementById("a88-2").style.animation = "moveclut 1s forwards";
+         document.getElementById("a13-3").style.animation = "movv 1s forwards";
+        document.getElementById("a13-3").style.animation = "movw 1s forwards";
     }, 800);
 }
 
