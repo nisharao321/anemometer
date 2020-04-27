@@ -20,7 +20,7 @@ d. Both b and c<br>
 
 Q 4. Axis of Vane anemometer should be in the  <br>
 <b>a. Direction parallel to the Air.</b><br>
-b. Vertical to the direction of air. </b> <br>
+b. Vertical to the direction of air.<br>
 c. Inclined 30 degree.  <br>
 d. 45 degree to the direction of air.  <br>
 

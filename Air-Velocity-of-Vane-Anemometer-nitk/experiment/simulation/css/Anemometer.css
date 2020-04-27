@@ -134,49 +134,101 @@ margin-top: -30px;
 }
 
 @-webkit-keyframes movescale {
-  from {top:350px;  }
-  to {top:280px; }
+  from {top:320px;  }
+  to {top:205px; }
 }
 @keyframes movescale {
-  from {top:350px;  }
-  to {top:280px; }
+  from {top:320px;  }
+  to {top:205px; }
 } 
 
+
+@-webkit-keyframes mos {
+  from {top: 65px;  }
+  to {top:75px; }
+}
+@keyframes mos {
+  from {top: 65px;  }
+  to {top:75px; }
+} 
+
+
+@-webkit-keyframes moss {
+  from {top:75px;  }
+  to {top:65px; }
+}
+@keyframes moss {
+  from {top:75px;  }
+  to {top:65px; }
+} 
+
+
+@-webkit-keyframes movv {
+  from {top: 308px;  }
+  to {top:320px; }
+}
+@keyframes movv {
+  from {top: 308px;  }
+  to {top:320px; }
+} 
+
+
+@-webkit-keyframes movw {
+  from {top:320px;  }
+  to {top:308px; }
+}
+@keyframes movw {
+  from {top:320px;  }
+  to {top:308px; }
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
 @-webkit-keyframes movefan {
-  from {left: 400px; top: 285px; }
-  to {left: 400px; top: 55px; }
+  from { top: 285px; }
+  to { top: 155px; }
 }
 @keyframes movefan {
-  from {left: 400px; top: 285px; }
-  to {left: 400px; top: 55px; }
+  from { top: 285px; }
+  to { top: 155px; }
 } 
 
 @-webkit-keyframes movevm {
-  from { left: 460px; top: 310px;  }
-  to {left: 460px; top: 85px; }
+  from {  top: 300px;  }
+  to { top: 165px; }
 }
 @keyframes movevm {
-  from { left: 460px; top: 310px; }
-  to {left: 460px; top: 85px; }
+  from {  top: 300px; }
+  to { top: 165px; }
 } 
 
 @-webkit-keyframes moves {
-  from {left: 165px; top: 100px;  }
-  to {left: 165px; top: 115px; }
+  from {left: 225px; top: 150px; }
+  to {left: 220px; top: 155px; }
 }
 @keyframes moves {
-  from {left: 165px; top: 100px;  }
-  to {left: 165px; top: 115px; }
+  from {left: 225px; top: 150px;  }
+  to {left: 220px; top: 155px; }
 } 
 
 
 @-webkit-keyframes movess {
-  from {left: 165px; top: 115px;  }
-  to {left: 165px; top: 100px; }
+  from {left: 220px; top: 155px;  }
+  to {left: 225px; top: 150px;}
 }
 @keyframes movess {
-  from {left: 165px; top: 115px;  }
-  to {left: 165px; top: 100px; }
+  from {left: 220px; top: 155px;  }
+  to {left: 225px; top: 150px; }
 } 
 
 
