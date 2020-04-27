@@ -31,7 +31,7 @@ Traverse Path in Tunnel <br>
 Degree of gassiness| Place where velocity of air is to be measured |Minimum velocity of air (m/min)
 ---|---|---
 I degree | Immediate outbye ventilation connection from the face.| 30
-II degree |a.4.5 m from any faces, whether working or discontinued, on the intake side of the brattice or partition.<br> b. 7.5 m outbye of the discharge end of an air pipe. At maximum pan of the longwall face.<br>c.At maximum pan of the longwall face.| 30<br><br>15<br><br>60
-III degree |a.4.5 m from any faces, whether working or discontinued, on the intake side of the brattice or partition.<br> b. 7.5 m outbye of the discharge end of an air pipe.	At maximum pan of the longwall face.<br>c.At maximum pan of the longwall face.| 45<br><br>25<br><br>75
+II degree |a. 4.5 m from any faces, whether working or discontinued, on the intake side of the brattice or partition.<br> b. 7.5 m outbye of the discharge end of an air pipe. At maximum pan of the longwall face.<br>c.At maximum pan of the longwall face.| 30<br><br>15<br><br>60
+III degree |a. 4.5 m from any faces, whether working or discontinued, on the intake side of the brattice or partition.<br> b. 7.5 m outbye of the discharge end of an air pipe.	At maximum pan of the longwall face.<br>c.At maximum pan of the longwall face.| 45<br><br>25<br><br>75
 
 <br>
