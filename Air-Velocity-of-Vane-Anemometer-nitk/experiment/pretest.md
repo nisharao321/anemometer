@@ -3,10 +3,10 @@
 
 <br>
 Q 1. What does “Anemo” word refer to?  <br>
-<b>a. Air </b><br>
-b. Water <br>
-c. Ether<br>
-d. Fire <br><br>
+<b>a. Air. </b><br>
+b. Water. <br>
+c. Ether.<br>
+d. Fire.<br><br>
 
 Q 2. Anemomter used to measure ____________.<br>
 a. Air velocity at a particular point. <br>
@@ -21,7 +21,7 @@ c. Robert Hook.<br>
 d. Thomas Alva Edison. <br>
 
 Q 4. Vane anemometer have ________.<br>
-<b>a. Blade </b><br>
-b. Cup <br>
-c. Arrow <br>
+<b>a. Blade. </b><br>
+b. Cup. <br>
+c. Arrow. <br>
 d. None of these. <br>

@@ -145,16 +145,7 @@
         },
         correctAnswer: "b"
     },
-     {
-        question: "In Assman Psychrometer, metal designed are provided in order to ",
-        answers: {
-          a: "Minimize radiative heating due to sun.",
-          b: "Minimize radiative heating due to longwave radiation.",
-          c: "Insure more safety to thermometer.",
-          d: "All of above. "
-        },
-        correctAnswer: "d"
-    },
+     
      {
         question: "Method factor depends on ___________.  ",
         answers: {

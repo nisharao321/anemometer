@@ -22,16 +22,16 @@ Traverse Path in Tunnel <br>
 | 1 |   Ventilation shafts not provided with winding equipment; fan drift.| 15|
 | 2 |	Ventilation shafts where man winding is not carried out, or hoisting shafts only.|12|
 | 3 |	Shafts used for man winding or man hoisting shafts and haulage roads.|08|
-| 4 |	Other roadways. |06|
-| 5 |	Conveyor roads, loading points and transfer points.  |04|
-| 6 |	Working faces in developing or depillaring/ stopping areas , including longwall faces. |04|
+| 4 |	Other roadways.|06|
+| 5 |	Conveyor roads, loading points and transfer points.|04|
+| 6 |	Working faces in developing or depillaring/stopping areas, including longwall faces.|04|
 
 2.	Based on degree of gassiness of coal mine, different air velocities are required at different places in coal mine. To measure that also we need vane anemometer. Table given below provide information about that.
 
-Degree of gassiness| Place where velocity of air is to be measured |   Minimum velocity of air (m/min)
-:---|:---|:---
+Degree of gassiness| Place where velocity of air is to be measured |Minimum velocity of air (m/min)
+---|---|---
 I degree | Immediate outbye ventilation connection from the face.| 30
-II degree |a.	 4.5 m from any faces, whether working or discontinued, on the intake side of the brattice or partition.<br> b. 7.5 m outbye of the discharge end of an air pipe.	At maximum pan of the longwall face.<br>c.At maximum pan of the longwall face.| 30<br><br>15<br><br>60
-III degree |a.	 4.5 m from any faces, whether working or discontinued, on the intake side of the brattice or partition.<br> b. 7.5 m outbye of the discharge end of an air pipe.	At maximum pan of the longwall face.<br>c.At maximum pan of the longwall face.| 45<br><br>25<br><br>75
+II degree |a.4.5 m from any faces, whether working or discontinued, on the intake side of the brattice or partition.<br> b. 7.5 m outbye of the discharge end of an air pipe. At maximum pan of the longwall face.<br>c.At maximum pan of the longwall face.| 30<br><br>15<br><br>60
+III degree |a.4.5 m from any faces, whether working or discontinued, on the intake side of the brattice or partition.<br> b. 7.5 m outbye of the discharge end of an air pipe.	At maximum pan of the longwall face.<br>c.At maximum pan of the longwall face.| 45<br><br>25<br><br>75
 
 <br>
