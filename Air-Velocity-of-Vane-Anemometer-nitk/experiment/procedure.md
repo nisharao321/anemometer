@@ -1,31 +1,31 @@
 ##### These procedure steps will be followed on the simulator
 
 1. When you click on a Air Velocity using Vane Anemometer file, a new window will open as shown below. Click on the NEXT button at the bottom right corner to proceed to the next step. <br>
-<img src="images/ar1.png"><br>
+<img src="images/ar1.jpg"><br>
 
 2. click on the rod to attach to the Vane Anemometer for rotation.<br>
-<img src="images/ar2.png"><br>
+<img src="images/ar2.PNG"><br>
 
 3. Then, click to the Zero Setting lever to set it to zero. Then, click the NEXT button.<br>
 <img src="images/ar3.png"><br>
 
 4. Then, click to the OK button. <br>
-<img src="images/ar4.png"><br>
+<img src="images/ar4.PNG"><br>
 
 5. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
 <img src="images/ar5.png"><br>
 
 6. Then, click to the OK button.<br>
-<img src="images/ar6.png"><br>
+<img src="images/ar6.PNG"><br>
 
 7. Now, click on the start button of stopwatch to switch it ON which will run for 120sec.<br>
-<img src="images/ar7.png"><br>
+<img src="images/ar7.PNG"><br>
 
 8. Then, click to the clutch button of vane anemometer when time finished so that reading would not change even the vane of anemometer is moving.<br>
-<img src="images/ar8.png"><br>
+<img src="images/ar8.PNG"><br>
 
 9. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
-<img src="images/ar9.png"><br>
+<img src="images/ar9.PNG"><br>
 
 10. The observation of trial 1 is given below and click on the CHECK button to get result of trial 1.<br>
 <img src="images/ar10.png"><br>
