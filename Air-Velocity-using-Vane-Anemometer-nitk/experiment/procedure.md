@@ -21,7 +21,7 @@
 7. Now, click on the start button of stopwatch to switch it ON which will run for 120sec.<br>
 <img src="images/ar7.jpg"><br>
 
-8. Then, click to the clutch button of vane anemometer when time finished so that reading would not change even the vane of anemometer is moving.<br>
+8. Then, click the clutch button of vane anemometer when time finished so that reading would not change even the vane of anemometer is moving.<br>
 <img src="images/ar8.jpg"><br>
 
 9. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
