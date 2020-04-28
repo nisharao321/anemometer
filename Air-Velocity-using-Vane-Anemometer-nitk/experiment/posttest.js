@@ -78,20 +78,20 @@
     {
         question: "What does vane anemometer calculates?",
         answers: {
-          a: "Air velocity.",
-          b: "Distance.",
-          c: "Acceleration. ",
-          d: "Momentum. "
+          a: "Air velocity",
+          b: "Distance",
+          c: "Acceleration ",
+          d: "Momentum "
         },
         correctAnswer: "b"
     },
     {
         question: "What is the range of Vane anemometer in mines? ",
         answers: {
-          a: "01 – 05 m/sec.",
-          b: "01 – 10 m/sec.",
-          c: "01 – 15 m/sec. ",
-          d: "01 – 20 m/sec."
+          a: "01 – 05 m/sec",
+          b: "01 – 10 m/sec",
+          c: "01 – 15 m/sec ",
+          d: "01 – 20 m/sec"
         },
         correctAnswer: "c"
     },
@@ -100,17 +100,17 @@
         answers: {
           a: "0.795 radian",
           b: "0.785 radian",
-          c: "Inclined 30 degree. ",
-          d: "45 degree to the direction of air. "
+          c: "Inclined 30 degree ",
+          d: "45 degree to the direction of air "
         },
         correctAnswer: "b"
     },
     {
         question: "Axis of Vane anemometer should be in the  ",
         answers: {
-          a: "Direction parallel to the Air.",
-          b: "Vertical to the direction of air. ",
-          c: "Both a & b.",
+          a: "Direction parallel to the Air",
+          b: "Vertical to the direction of air ",
+          c: "Both a & b",
           d: "Latent heat content of air"
         },
         correctAnswer: "a"
@@ -118,10 +118,10 @@
     {
         question: "What does Digital Anemometer calculates ?",
         answers: {
-          a: "Air velocity.",
-          b: "Distance.",
-          c: "Acceleration.",
-          d: "Momentum."
+          a: "Air velocity",
+          b: "Distance",
+          c: "Acceleration",
+          d: "Momentum"
         },
         correctAnswer: "a"
     },
@@ -138,10 +138,10 @@
     {
         question: "Which factor is considered to obtain correct velocity ? ",
         answers: {
-          a: "Atkinson factor. ",
-          b: "Method factor.  ",
-          c: "Dust factor.",
-          d: "Friction factor. "
+          a: "Atkinson factor ",
+          b: "Method factor  ",
+          c: "Dust factor",
+          d: "Friction factor "
         },
         correctAnswer: "b"
     },
@@ -149,10 +149,10 @@
      {
         question: "Method factor depends on ___________.  ",
         answers: {
-          a: "Size of the duct. ",
-          b: "Quantity of dust passing through the duct.  ",
-          c: "Air resistance with blade of vane anemometer. ",
-          d: "All of these. "
+          a: "Size of the duct ",
+          b: "Quantity of dust passing through the duct  ",
+          c: "Air resistance with blade of vane anemometer ",
+          d: "All of these "
         },
         correctAnswer: "a"
     },
@@ -169,10 +169,10 @@
      {
         question: "What is the maximum quantity of air Vane anemometer can measure in a gallery of coal mine working under Board & Pillar method?  ",
         answers: {
-          a: "216 m3/sec.",
-          b: "150.56 m3/sec.",
-          c: "183.6 m3/sec. ",
-          d: "200.9 m3/sec. "
+          a: "216 m3/sec",
+          b: "150.56 m3/sec",
+          c: "183.6 m3/sec",
+          d: "200.9 m3/sec "
         },
         correctAnswer: "c"
     },

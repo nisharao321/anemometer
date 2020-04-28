@@ -90,22 +90,22 @@
       correctAnswer: "a"
     },
     {
-      question: "Anemomter used to measure ____________.",
+      question: "Anemomter used to measure ____________",
       answers: {
-        a: "Air velocity at a particular point. ",
-        b: "Air velocity through a cross-sectional area. ",
-        c: "Air pressure. ",
-        d: "Relative humidity. "
+        a: "Air velocity at a particular point ",
+        b: "Air velocity through a cross-sectional area ",
+        c: "Air pressure ",
+        d: "Relative humidity "
       },
       correctAnswer: "b"
     },
     {
       question: "____________ invented first mechanical anemometer. ",
       answers: {
-        a: "Leon Battista Alberti. ",
-        b: "Thomas Crook. ",
-        c: "Robert Hook. ",
-        d: "Thomas Alva Edison. "
+        a: "Leon Battista Alberti",
+        b: "Thomas Crook ",
+        c: "Robert Hook ",
+        d: "Thomas Alva Edison "
       },
       correctAnswer: "a"
     },

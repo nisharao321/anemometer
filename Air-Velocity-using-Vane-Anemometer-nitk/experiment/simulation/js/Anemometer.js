@@ -97,7 +97,7 @@ var arr2 = [
 var arr3 = [
 [1.83, 26.35],
 [1.875, 27],
-[1.85, 26.64]
+[1.85, 26.64],
 [1.85, 26.64]
 ];
 
@@ -899,17 +899,19 @@ function start(sn,ln) {
         var l5=document.getElementById('line5'+sn);
         l5.style.height='130px';
         ln--;
-        setTimeout(function(){
-            draw_9();
-        },1000);
+        if(ln!=0)
+        	setTimeout(function(){
+            	draw_9();
+        	},1000);
     }
 
     function draw_9() {
         document.getElementById('sc32cont').style.width='0px';
         ln--;
-        setTimeout(function(){
-            draw_10();
-        },1200);
+        if(ln!=0)
+        	setTimeout(function(){
+            	draw_10();
+        	},1200);
     }
 
     function draw_10() {
