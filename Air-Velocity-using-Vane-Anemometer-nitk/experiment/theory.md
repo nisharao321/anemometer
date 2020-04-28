@@ -5,7 +5,7 @@
 
 #### Specifications
 
-<p style="text-indent:50px;text-align:justify;">It is also known as propeller anemometer. The Vane Anemometer have its axis parallel to the direction of the wind and therefore horizontal. Low range vane anemometer will typically have eight vanes, jeweled bearings and give velocity reading in the range of 0.25- 15 m/sec. High range instruments may have four vanes, low friction roller or ball bearings and can be capable of measuring air velocities as high as 50m/sec. The vanes are set at an angle of 0.785 radians to the direction of air flow. Anemometers commonly used in mines cover a velocity range of 1-15m/sec.
+<p style="text-indent:50px;text-align:justify;">Vane anemometer is also known as propeller anemometer. The Vane Anemometer have its axis parallel to the direction of the wind and therefore horizontal. Low range vane anemometer will typically have eight vanes, jeweled bearings and give velocity reading in the range of 0.25- 15 m/sec. High range instruments may have four vanes, low friction roller or ball bearings and can be capable of measuring air velocities as high as 50m/sec. The vanes are set at an angle of 0.785 radians to the direction of air flow. Anemometers commonly used in mines cover a velocity range of 1-15m/sec.
 </p>
 
 <center>
